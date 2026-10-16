@@ -89,4 +89,6 @@ A player is considered to have completed the game when they stay until the game 
 | npm run db:reset | Empties the database, rebuilds every table and reloads the seed data |
 | npm run check | Runs the same automatic check that GitHub runs after every push |
 
+
+Project: Crossword Quest API
 Created for CS 313 Software Engineering 1.
