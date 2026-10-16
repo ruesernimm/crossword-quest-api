@@ -1,6 +1,6 @@
 # Crossword Quest API
 
-Backend API for Crossword Quest, a tournament game for the SorSU Bulan Campus library.
+Backend API for Crossword Quest, a tournament game for the SorSU Bulan Campus library. 
 CS 313 Software Engineering 1, A.Y. 2026-2027.
 
 - Developer: Ruth Angel L. Gueta (ruesernimm), BSCS 3-1
@@ -75,9 +75,10 @@ A player is considered to have completed the game when they stay until the game 
 | 7 | device_info | Platform and browser of each player |
 | 8 | solved_words | Which player solved which clue, and the points awarded |
 | 9 | users | Accounts (school_id, full_name, email, role), added by Design Change Notice 01. A later migration, add-user-id-to-players, links each player to a user | 
-
+ 
 
 ## Database scripts
+
 
 | Command | What it does |
 |---|---|
@@ -87,3 +88,5 @@ A player is considered to have completed the game when they stay until the game 
 | npm run db:check | Counts the rows in every table |
 | npm run db:reset | Empties the database, rebuilds every table and reloads the seed data |
 | npm run check | Runs the same automatic check that GitHub runs after every push |
+
+Created for CS 313 Software Engineering 1.
