@@ -1,4 +1,4 @@
-# [Your Game Title] API
+# [Crossword Quest] API
 
 Backend API for **[Crossword Quest]**, a tournament game for the SorSU Bulan Campus library.
 CS 313 Software Engineering 1, A.Y. 2026-2027.
